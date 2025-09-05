@@ -48,4 +48,4 @@ This project demonstrates how modern **AI + automation tools** can streamline su
 
 ## 👤 Author
 
-Developed by [Your Name](https://github.com/your-profile)
+Developed by [Achala Pandey]
