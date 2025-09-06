@@ -29,8 +29,7 @@ This project demonstrates how modern **AI + automation tools** can streamline su
 ## 📂Repository Contents
 
 - `data/` → Sample sales/order CSV files  
-- `workflows/` → Exported **n8n** workflows (JSON format)  
-- `config/` → Database schema for Supabase  
+- `workflows/` → Exported **n8n** workflows (JSON format)   
 - `SUPPLY_CHAIN_ANALYSIS.grid` → Quadratic analysis file (AI-driven spreadsheet)  
 - `reports/` → Insights, dashboards, and final business recommendations  
 
